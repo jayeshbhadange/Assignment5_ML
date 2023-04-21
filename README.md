@@ -28,7 +28,7 @@ Scalars:
 
 Are the results as expected? Why or why not?
 -----------------------
-Yes, the results are as expected. Both the test and train accuracies increases in the order VGG (1 block) < VGG (3 blocks) < VGG (3 blocks) with data augmentation < Transfer learning using VGG16 or VGG19
+Yes, the results are as expected. Both the test and train accuracies increases in the order VGG (1 block) < VGG (3 blocks) < VGG (3 blocks) with data augmentation = Transfer learning using VGG16 or VGG19
 
 Does data augmentation help? Why or why not?
 -------------------------------------
