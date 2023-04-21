@@ -28,7 +28,7 @@ Yes, the results are as expected. Both the test and train accuracies increases i
 
 Does data augmentation help? Why or why not?
 -------------------------------------
-Yes, the data augmentation is helpful because the accuracy of the model increases by using it. Since we are using a dataset with a limited data, the data augmentation plays a crucial in improving the accuracy by introducing some variability into the data.
+Yes, the data augmentation is helpful because the accuracy of the model increases by using it. Often to deal with the problem of limited data different transformations are apply  on the available data to synthesize new data. Data augmentation can be used to address both the requirements, the diversity of the training data, and the amount of data. Since we are using a dataset with a limited data, the data augmentation plays a crucial in improving the accuracy by introducing some variability into the data.
 
 Does it matter how many epochs you fine tune the model? Why or why not?
 ---------------------------------
