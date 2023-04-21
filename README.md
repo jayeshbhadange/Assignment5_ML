@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/90170940/233572336-61f012df-a4ed-4122-a5e8-4cfaac301f14.png)
+
+
+
 Tensorboard Visualization
 -----------------------
 Scalars:
