@@ -4,7 +4,8 @@ Scalars:
 --------
 1.VGG
 
-![vgg1](https://user-images.githubusercontent.com/90170940/233555528-12b1c0de-41d4-4093-ba31-c658cdda0884.png)
+![vgg1](https://user-images.githubusercontent.com/90170940/233562415-b164ed02-4d1d-4069-80a6-9cf0090168aa.png)
+
 
 
 2. VGG3
